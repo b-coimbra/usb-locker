@@ -1,0 +1,9 @@
+c:\users\bruno\documents\visual studio 2015\Projects\Locker\Locker\bin\Debug\Locker.exe.config
+c:\users\bruno\documents\visual studio 2015\Projects\Locker\Locker\bin\Debug\Locker.exe
+c:\users\bruno\documents\visual studio 2015\Projects\Locker\Locker\bin\Debug\Locker.pdb
+c:\users\bruno\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Locker.csprojResolveAssemblyReference.cache
+c:\users\bruno\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Locker.Form1.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Locker.Properties.Resources.resources
+c:\users\bruno\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Locker.csproj.GenerateResource.Cache
+c:\users\bruno\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Locker.exe
+c:\users\bruno\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Locker.pdb
