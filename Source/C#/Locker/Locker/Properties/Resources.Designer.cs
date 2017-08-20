@@ -63,9 +63,19 @@ namespace Locker.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
-        internal static System.Drawing.Bitmap _1484525211368 {
+        internal static System.Drawing.Bitmap lain {
             get {
-                object obj = ResourceManager.GetObject("1484525211368", resourceCulture);
+                object obj = ResourceManager.GetObject("lain", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap lain1 {
+            get {
+                object obj = ResourceManager.GetObject("lain1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
@@ -76,6 +86,16 @@ namespace Locker.Properties {
         internal static System.Drawing.Bitmap next {
             get {
                 object obj = ResourceManager.GetObject("next", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap next1 {
+            get {
+                object obj = ResourceManager.GetObject("next1", resourceCulture);
                 return ((System.Drawing.Bitmap)(obj));
             }
         }

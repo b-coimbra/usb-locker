@@ -66,7 +66,7 @@
             // 
             // label2
             // 
-            this.label2.BackColor = System.Drawing.Color.Teal;
+            this.label2.BackColor = System.Drawing.Color.MediumAquamarine;
             this.label2.Location = new System.Drawing.Point(0, 1);
             this.label2.Name = "label2";
             this.label2.Size = new System.Drawing.Size(265, 3);
@@ -123,7 +123,7 @@
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.Black;
-            this.button1.BackgroundImage = global::Locker.Properties.Resources.next;
+            this.button1.BackgroundImage = ((System.Drawing.Image)(resources.GetObject("button1.BackgroundImage")));
             this.button1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.button1.Cursor = System.Windows.Forms.Cursors.Hand;
             this.button1.FlatAppearance.MouseDownBackColor = System.Drawing.Color.Black;

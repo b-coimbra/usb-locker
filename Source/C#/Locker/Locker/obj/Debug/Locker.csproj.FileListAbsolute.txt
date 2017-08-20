@@ -7,3 +7,4 @@ c:\users\bruno\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Loc
 c:\users\bruno\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Locker.csproj.GenerateResource.Cache
 c:\users\bruno\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Locker.exe
 c:\users\bruno\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Locker.pdb
+C:\Users\Bruno\documents\visual studio 2015\Projects\Locker\Locker\obj\Debug\Locker.Form2.resources
