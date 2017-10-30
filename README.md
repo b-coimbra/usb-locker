@@ -7,4 +7,4 @@ USB flash drive locker
 *Warning: the program will shutdown the system after 5 attempts.* 
 
 ## Preview
-![image](https://i.imgur.com/9dgTAW2.gif)
+![image](https://i.imgur.com/piVEphr.gif)
